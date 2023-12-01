@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Xml.Linq;
 using PcMan.Model.Characters;
@@ -24,7 +24,7 @@ namespace PcMan.Model
         public LevelData()
 
         {
-            levelsUrl = "https://www.wjhulzebosch.nl/Curio/LevelGenerator/api.php";
+            levelsUrl = "http://localhost/levelgenerator/LevelGenerator/api.php";
             levelIndexToIdMapping = new Dictionary<int, int>();
 
             LoadLevels();
