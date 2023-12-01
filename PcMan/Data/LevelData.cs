@@ -24,7 +24,7 @@ namespace PcMan.Model
         public LevelData()
 
         {
-            levelsUrl = "https://www.wjhulzebosch.nl/Curio/LevelGenerator/api.php";
+            levelsUrl = "../../LevelGenerator/api.php";
             levelIndexToIdMapping = new Dictionary<int, int>();
 
             LoadLevels();

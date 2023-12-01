@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GAjF6hAWvH5+c08d1xRxT4B5MAP0Iup6ES8PM+aTf1OuVZsJggB0EbfdRBD+C1KT6q1Q6MaMzg6wGqRr+FrDVw==",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\pecmun\\PcMan\\PcMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markp\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\markp\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\markp\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
